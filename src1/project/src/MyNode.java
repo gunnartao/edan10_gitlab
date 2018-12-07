@@ -8,8 +8,7 @@ package tree;
  */
 
 
-// Corrected Change
-// branch change
+// Merged Change
 
 
 public class MyNode {
