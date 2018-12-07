@@ -7,7 +7,7 @@ package tree;
  * @see MyTree
  */
 
-/Change
+// Corrected Change
 
 public class MyNode {
   private MyNode father;
