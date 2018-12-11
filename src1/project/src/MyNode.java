@@ -8,15 +8,14 @@ package tree;
  */
 
 
-// Merged Change
 // trans change aw
-
 
 public class MyNode {
   private MyNode father;
   private MyNode left;
   private MyNode right;
   private int value;
+  private boolean notImportant;
 
   /**
    * Class constructor initializing this node's value.
