@@ -41,7 +41,7 @@ public class MyNode {
    * @param value The new value of this node.
    */
   public void setValue(int value) {
-    this.value = value;
+    this.value = value + 1;
   }
 
   /**
