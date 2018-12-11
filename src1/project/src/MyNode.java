@@ -8,7 +8,7 @@ package tree;
  */
 
 
-// My change
+// Merged Change 2
 
 
 public class MyNode {
