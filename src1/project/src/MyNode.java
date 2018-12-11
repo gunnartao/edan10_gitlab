@@ -16,7 +16,7 @@ public class MyNode {
   private MyNode left;
   private MyNode right;
   private int value;
-  private boolean notImportant;
+  private boolean notImportant = false;
 
   /**
    * Class constructor initializing this node's value.
