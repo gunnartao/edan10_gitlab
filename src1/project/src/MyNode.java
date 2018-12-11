@@ -8,8 +8,7 @@ package tree;
  */
 
 
-// Merged Change 2
-
+// trans change aw
 
 public class MyNode {
   private MyNode father;
